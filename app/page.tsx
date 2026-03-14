@@ -26,7 +26,7 @@ const reasons = [
   "Cara kamu ngobrol dan dengerin itu nyaman.",
   "Perhatian kecil kamu selalu kerasa tulus.",
   "Kamu punya cara sendiri buat bikin hari terasa lebih ringan.",
-  "Bareng kamu, semuanya terasa lebih masuk akal."
+  "Kehadiran kamu selalu bikin hari terasa lebih hangat."
 ];
 
 const gallery = [
