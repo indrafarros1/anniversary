@@ -13,7 +13,7 @@ const moments = [
   },
   {
     title: "Hari-hari favorit",
-    text: "Banyak momen biasa terasa lebih enak dijalani karena ada Nurul di situ."
+    text: "Banyak momen biasa terasa lebih enak dijalani karena ada sayang di situ."
   },
   {
     title: "Menuju selamanya",
@@ -22,7 +22,7 @@ const moments = [
 ];
 
 const reasons = [
-  "Nurul bikin suasana terasa lebih tenang.",
+  "Sayang bikin suasana terasa lebih tenang.",
   "Cara kamu ngobrol dan dengerin itu nyaman.",
   "Perhatian kecil kamu selalu kerasa tulus.",
   "Kamu punya cara sendiri buat bikin hari terasa lebih ringan.",
@@ -57,9 +57,9 @@ export default function Home() {
     <main className="page-shell">
       <section className="hero-card">
         <div className="hero-copy">
-          <p className="eyebrow">Happy Anniversary, Nurul</p>
+          <p className="eyebrow">Happy Anniversary, sayangku</p>
           <h1>
-            Untuk Nurul, terima kasih sudah jadi bagian penting dari perjalanan
+            Untuk sayangku, terima kasih sudah jadi bagian penting dari perjalanan
             ini.
           </h1>
           <p className="lead">
@@ -71,7 +71,7 @@ export default function Home() {
             <a href="#surat" className="primary-link">
               Baca pesannya
             </a>
-            <span className="badge">Made with love for Nurul</span>
+            <span className="badge">Made with love for sayangku</span>
           </div>
         </div>
 
@@ -87,7 +87,7 @@ export default function Home() {
               className="hero-photo"
             />
             <div className="hero-photo-badge">
-              <span>Nurul</span>
+              <span>sayang</span>
               <strong>our favorite memory</strong>
             </div>
           </div>
@@ -163,7 +163,7 @@ export default function Home() {
       <section className="reasons-section">
         <div className="section-heading compact">
           <p className="section-label">Alasan aku bersyukur</p>
-          <h2>Hal-hal sederhana yang bikin Nurul berarti buat aku.</h2>
+          <h2>Hal-hal sederhana yang bikin sayangku berarti buat aku.</h2>
         </div>
 
         <div className="reasons-grid">
@@ -179,7 +179,7 @@ export default function Home() {
       <section className="motivation-section">
         <div className="motivation-card">
           <p className="section-label">Pesan kecil</p>
-          <h2>Aku sayang kamu apa adanya, dan aku juga pengen kita sama-sama sehat.</h2>
+          <h2>Aku sayang kamu apa adanya, sayang, dan aku juga pengen kita sama-sama sehat.</h2>
           <p>
             Bukan soal harus berubah jadi orang lain, cuma soal pelan-pelan jaga
             diri biar badan lebih enak, pikiran lebih ringan, dan hari-hari juga
@@ -195,7 +195,7 @@ export default function Home() {
 
       <section id="surat" className="letter-section">
         <div className="letter-card">
-          <p className="section-label">Surat untuk Nurul</p>
+          <p className="section-label">Surat untuk sayangku</p>
           <h2>Terima kasih sudah tetap ada sampai di titik ini.</h2>
           <p>
             Terima kasih buat semua hal yang sudah kita lewatin sejauh ini.
@@ -207,7 +207,7 @@ export default function Home() {
             aku. Semoga ke depannya kita tetap bisa saling jaga, saling ngerti,
             dan terus bikin hubungan ini jadi tempat yang nyaman buat kita berdua.
           </p>
-          <p className="signature">Untuk Nurul, dengan tulus.</p>
+          <p className="signature">Untuk sayangku, dengan tulus.</p>
         </div>
       </section>
     </main>
